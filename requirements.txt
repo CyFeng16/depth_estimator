@@ -1,0 +1,5 @@
+gradio==4.21.0
+gradio_imageslider==0.0.18
+loguru==0.7.2
+opencv_python==4.8.1.78
+transformers==4.38.2
